@@ -1,5 +1,6 @@
 # Learning git in vs code
 
---second commit\n
---third commit\n
+--second commit
+--third commit
 hotdog gaming
+--update

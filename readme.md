@@ -1,6 +1,6 @@
 # Learning git in vs code
 
---second commit
---third commit
+--second commit\n
+--third commit\n
 asdada
 sdsad
